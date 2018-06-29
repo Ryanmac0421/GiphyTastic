@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(192, 191, 191) ;
+}
+
+form {
+    margin-left: 80%;
+    margin-top: 5%;
+}
+
+h1 {
+    text-align: center;
+    color: teal;
+    font-size: 50px;
+    font-family: cursive;
+    background-color: white;
+}
+
+.button {
+    margin-right: 100px;
+}
+
+.pics {
+    height: 200px;
+    width: 300px;
+    margin: 5px;
+}
+
+.gifContainer {
+    display: inline-block;
+}
